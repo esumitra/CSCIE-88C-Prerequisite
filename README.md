@@ -1,8 +1,8 @@
-# Self Assessment Problems for CSCI E88C - Spring, 2022
+# Self Assessment Problems for CSCI E88C - Fall, 2022
 
-The problem set below is to assess a student's readiness to take the course on Programming in Scala for Big Data Systems at https://extension.harvard.edu/course-catalog/courses/programming-in-scala-for-big-data-systems/26278. 
+The problem set below is to assess a student's readiness to take the Programming in Scala for Big Data Systems at https://courses.dce.harvard.edu/?details&srcdb=202301&crn=16769. 
 
-Please complete the problem set below in any language of your choice. You do not have to turn in this self assessment. The problem set is not graded.
+To complete the course successfully, you should be able to solve the problems below by writing code in any programming language of your choice. You do not have to turn in this self-assessment. The problem set is not graded.
 
 ### Dataset
 The dataset for the problems is a retail transaction data set from Kaggle. A sample of the data is below:
