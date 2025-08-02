@@ -1,6 +1,6 @@
 # Self Assessment Problems for CSCI E88C
 
-The problem set below is to assess a student's readiness to take the Programming in Scala for Big Data Systems at https://courses.dce.harvard.edu/?details&srcdb=202501&crn=16769.
+The problem set below is to assess a student's readiness to take the Programming in Scala for Big Data Systems at https://courses.dce.harvard.edu/?details&srcdb=202601&crn=16769.
 
 To complete the course successfully, you should be able to solve the problems below by writing code in any programming language of your choice. You do not have to turn in this self-assessment. The problem set is not graded.
 
@@ -36,5 +36,5 @@ key -> value
 ...
 ```
 ### License
-Copyright 2021-2024, Edward Sumitra
+Copyright 2021-2025, Edward Sumitra
 
